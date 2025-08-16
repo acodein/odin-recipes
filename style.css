@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.home {
+    padding: 16px;
+}
+
+.home:hover{
+  color: rgb(36, 94, 230);
+}
+
+h1{
+    text-align: center;
+    color:rgb(146, 152, 58);
+}
+
+ul {
+    margin: 24px 24px;
+}
+
+li{
+    padding:4px;
+}
+
+li:hover {
+    color: rgb(36,94,230);
+}
